@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 <img src="https://discordapp.com/api/guilds/1003489426573377707/widget.png?style=banner1" alt="Discord Banner 1"/>
 
  
- 
-![N|Solid](https://discordapp.com/api/guilds/1003489426573377707/widget.png?style=banner1)
+ <img src="https://discordapp.com/api/guilds/1003489426573377707/widget.png?style=shield" alt="Discord Shield"/>
+![Discord Shield](https://discordapp.com/api/guilds/1003489426573377707/widget.png?style=shield)
