@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://discord.gg/wKEDry6nHz" target="_blank"><img src="https://discordapp.com/api/guilds/1003489426573377707/widget.png?style=banner4"/></a>
+<img src="https://discordapp.com/api/guilds/1003489426573377707/widget.png?style=banner1" alt="Discord Banner 1"/>
+
