@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+ 
 **YooInseo/YooInseo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
 <img src="https://discordapp.com/api/guilds/1003489426573377707/widget.png?style=banner1" alt="Discord Banner 1"/>
 
--->
+ 
  
