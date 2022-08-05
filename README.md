@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<center>
 <a href ="https://discord.gg/TMaAyJsEnQ"><img src="https://discordapp.com/api/guilds/1003489426573377707/widget.png?style=banner1" alt="Discord Banner 1"/> </a>
 
 ![Discord Banner 1](https://discordapp.com/api/guilds/1003489426573377707/widget.png?style=banner1)
 
+</center>
