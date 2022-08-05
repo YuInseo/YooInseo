@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://discord.com/api/webhooks/1003609254676156456/YSuNPGZV6fmVG02Wdr2uBIXuEL92WOJ7GazNeFJHAD3HKksbOkqNQQ7d165zJDEJqqVB
+<a href="https://discord.gg/wKEDry6nHz" target="_blank"><img src="https://discordapp.com/api/guilds/1003489426573377707/widget.png?style=banner4"/></a>
